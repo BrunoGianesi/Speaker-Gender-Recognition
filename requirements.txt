@@ -8,3 +8,4 @@ pyspark
 librosa
 scipy
 Audioconverter
+praat-parselmouth
