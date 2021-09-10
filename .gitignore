@@ -3,6 +3,8 @@ CETUC
 MLS
 CommonVoice
 CommonVoice-En
+noise
+MLS_noise
 !notebooks/CETUC
 !notebooks/MLS
 !notebooks/CommonVoice
